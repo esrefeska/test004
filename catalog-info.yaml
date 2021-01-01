@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test004
+  annotations:
+    github.com/project-slug: esrefeska/test004
+spec:
+  type: other
+  lifecycle: unknown
